@@ -45,6 +45,18 @@ Our audit methodology includes:
 | Cosmos-VoteModule   | Smart Contract Audit   | Cosmos (Juno)        | Rust     | [VoteModule Audit](reports/CosmosVote_Audit.pdf)       | 2025-04-12 | CosmWasm-based voting logic   |
 | ...                 | ...                    | ...                  | ...      | ...                                                    | ...        | ...                           |
 
+## 🔐 Total Value Secured
+
+As of [May 2025], Go Sec Labs has audited protocols securing:
+
+**$112M+ in Total Value Locked (TVL)**  
+across EVM and Cosmos-based ecosystems.
+
+| Ecosystem      | TVL Audited        | Major Projects                    |
+|----------------|--------------------|------------------------------------|
+| Ethereum / L2s | $68M               | Zk-Ballot, L2Dex, StablePool       |
+| Cosmos SDK     | $31M               | CosmosVote, JunoSwap, StakeNode    |
+| Golang Infra   | $13M               | Bybit Market Systems, Node Infra   |
 
 
 ## 📬 Contact
