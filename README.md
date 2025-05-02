@@ -33,6 +33,8 @@ Our audit methodology includes:
 - Fuzz testing and symbolic execution
 - Business logic validation
 - On-chain simulation (where applicable)
+- ...
+- ...
 
 ## 📄 Audit Reports
 
